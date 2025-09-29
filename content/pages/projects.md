@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section features examples of student papers written for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
