@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides lecture questions meant to prepare the student
   for the class discussions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
