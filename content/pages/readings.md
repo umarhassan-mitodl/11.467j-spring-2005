@@ -25,13 +25,13 @@ readings
 Introduction to Property Rights Revolutions Around the Globe
 {{< tdclose >}}{{< tdopen >}}
 
-"[Communist Manifesto Ten Plans](http://www.libertyzone.com/Communist-Manifesto-Planks.html)"
+"{{% resource_link "ddaf8e50-7d15-4abe-b273-2477f7fa0305" "Communist Manifesto Ten Plans" %}}"
 
-Locke, John. Chapter 5 in [*Second Treatise of Government*](http://www.constitution.org/jl/2ndtreat.htm). 1690.
+Locke, John. Chapter 5 in {{% resource_link "96890c85-60df-4c51-8cf4-ce92befb429f" "*Second Treatise of Government*" %}}. 1690.
 
-Rousseau, Jean-Jacques. [*Discourse on the Origin and Foundations of Inequality*](https://www.gutenberg.org/cache/epub/11136/pg11136-images.html). 1755. (Excerpt from the Second Discourse.)
+Rousseau, Jean-Jacques. {{% resource_link "fa071a1e-5589-4b10-960c-2f830c97c972" "*Discourse on the Origin and Foundations of Inequality*" %}}. 1755. (Excerpt from the Second Discourse.)
 
-Marx, Karl. Chapters 32, and 33 in [*Capital*](http://www.marxists.org/archive/marx/works/1867-c1/). 1867.
+Marx, Karl. Chapters 32, and 33 in {{% resource_link "c20d3177-2fa8-48ca-a739-6ebeec9db00c" "*Capital*" %}}. 1867.
 
 *Recommended*
 
@@ -163,7 +163,7 @@ Kim, A. M. "A market without the 'right' property rights: Ho Chi Minh City, Viet
 
 Leaf, Michael. "Legal Authority in an Extralegal Setting: The Case of Land Rights in Jakarta, Indonesia." *Journal of Planning Education and Research* 14 (1994): 12-18.
 
-Field, Erica. "Property Rights and Household Time Allocation in Urban Squatter Communities: Evidence from Peru." 2003. Abstract. ([PDF](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1319&context=wmlr))
+Field, Erica. "Property Rights and Household Time Allocation in Urban Squatter Communities: Evidence from Peru." 2003. Abstract. ({{% resource_link "194660c8-ec2b-4969-9e87-a4c6442f1650" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -175,7 +175,7 @@ Kim, A. M. "North versus South: the reformation of property rights in Hanoi and 
 
 Granovetter, Mark. "Economic Action and Social Structure: The Problem of Embeddedness." *The American Journal of Sociology* 91 (November 1985): 481-510
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011877) Aoki, Masahiko. "What are Institutions? How should we approach them?" Chapter 1 in *Comparative Institutional Analysis*. Cambridge, MA: The MIT Press, 2001. ISBN 9780262011877.
+{{% resource_link "767242fc-ff8b-42bf-b70b-f3cfca44b3b8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Aoki, Masahiko. "What are Institutions? How should we approach them?" Chapter 1 in *Comparative Institutional Analysis*. Cambridge, MA: The MIT Press, 2001. ISBN 9780262011877.
 
 Merrill, Thomas W. "Introduction: the Demsetz Thesis and the Evolution of Property Rights." *Journal of Legal Studies* 31, no. 2 (2002): 331-39.
 
